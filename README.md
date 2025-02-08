@@ -1,6 +1,6 @@
 # Introduction to Algorithms and Data Structures Project
 
-The full Portuguese project description is available in [ProjectDescription.md](ProjectDescription.md).
+The full project description in Portuguese can be found in [ProjectDescription.md](ProjectDescription.md).
 
 This repository provides a set of automatic tests, which can be ran with the following commands:
 
