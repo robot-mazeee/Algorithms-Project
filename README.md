@@ -4,7 +4,7 @@
 Este repositório git pertence a ist1110355 e destina-se ao project de iaed24.
 
 
-O enunciado do projecto está disponível em [enunciado.md](enunciado.md).
+O enunciado do projecto está disponível em [ProjectDescription.md](ProjectDescription.md).
 
 
 Os alunos devem submeter aqui a sua solução para o project que será avaliada automaticamente.
