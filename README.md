@@ -12,7 +12,7 @@ make
 
 ## Brief Project Description
 
-This project consists of a parking lot management system. The system allows for the registration of vehicles, as well as inquiries and billing. Below is a list of the available commands: 
+This project implements a parking lot management system that supports vehicle registration, inquiries, and billing functionalities. Below is a list of the available commands:
 
 | Command | Action |
 |:---:|:---|
