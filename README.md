@@ -17,7 +17,7 @@ This project implements a parking lot management system that supports vehicle re
 | Command | Action | Usage Example
 |:---:|:---|:---|
 | __q__ | Terminates the program | `q`
-| __p__ | Creates a new parking lot with a billing system or lists all existing parks | `p` (list), `p [ <name> <capacity> <billing-each-15-mins-first-hour> <billing-each-15-mins-after-first-hour> <max-daily-billing> ]` (create)>
+| __p__ | Creates a new parking lot with a billing system or lists all existing parks | `p` (list), `p [ <name> <capacity> <billing-each-15-mins-first-hour> <billing-each-15-mins-after-first-hour> <max-daily-billing> ]` (create)
 | __e__ | Register the entrance of a vehicle in a parking lot | `e <parking-lot-name> <license-plate> <date> <time>`
 | __s__ | Register the exit of a vehicle from a parking lot | `s <parking-lot-name> <license-plate> <date> <time>`
 | __v__ | List all entrances and exits of a vehicle from a parking lot | `v <license-plate>`
